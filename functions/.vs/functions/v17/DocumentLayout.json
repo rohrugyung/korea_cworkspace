@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cworks\\functions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28646FAC-342C-4719-9D42-30F37C2F7C31}|functions\\functions.vcxproj|C:\\cworks\\functions\\functions\\RandEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{28646FAC-342C-4719-9D42-30F37C2F7C31}|functions\\functions.vcxproj|solutionrelative:functions\\RandEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RandEx.c",
+              "DocumentMoniker": "C:\\cworks\\functions\\functions\\RandEx.c",
+              "RelativeDocumentMoniker": "functions\\RandEx.c",
+              "ToolTip": "C:\\cworks\\functions\\functions\\RandEx.c",
+              "RelativeToolTip": "functions\\RandEx.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-08T12:46:39.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
