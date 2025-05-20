@@ -36,5 +36,11 @@
     <ClCompile Include="RandEx.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Math2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="StringFunctions.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

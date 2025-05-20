@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\cworks\\functions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{28646FAC-342C-4719-9D42-30F37C2F7C31}|functions\\functions.vcxproj|C:\\cworks\\functions\\functions\\RandEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{28646FAC-342C-4719-9D42-30F37C2F7C31}|functions\\functions.vcxproj|solutionrelative:functions\\RandEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{28646FAC-342C-4719-9D42-30F37C2F7C31}|functions\\functions.vcxproj|C:\\cworks\\functions\\functions\\StringFunctions.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{28646FAC-342C-4719-9D42-30F37C2F7C31}|functions\\functions.vcxproj|solutionrelative:functions\\StringFunctions.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RandEx.c",
-              "DocumentMoniker": "C:\\cworks\\functions\\functions\\RandEx.c",
-              "RelativeDocumentMoniker": "functions\\RandEx.c",
-              "ToolTip": "C:\\cworks\\functions\\functions\\RandEx.c",
-              "RelativeToolTip": "functions\\RandEx.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Title": "StringFunctions.c",
+              "DocumentMoniker": "C:\\cworks\\functions\\functions\\StringFunctions.c",
+              "RelativeDocumentMoniker": "functions\\StringFunctions.c",
+              "ToolTip": "C:\\cworks\\functions\\functions\\StringFunctions.c*",
+              "RelativeToolTip": "functions\\StringFunctions.c*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-08T12:46:39.053Z",
+              "WhenOpened": "2025-05-20T11:24:57.535Z",
               "EditorCaption": ""
             }
           ]
