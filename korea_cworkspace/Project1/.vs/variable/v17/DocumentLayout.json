@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\cworks\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B4A921-FBA4-494D-9ED1-05A90C4C1B94}|Project1\\Project1.vcxproj|C:\\Users\\Administrator\\cworks\\Project1\\Project1\\TypeConversion.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3B4A921-FBA4-494D-9ED1-05A90C4C1B94}|Project1\\Project1.vcxproj|solutionrelative:Project1\\TypeConversion.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TypeConversion.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\cworks\\Project1\\Project1\\TypeConversion.c",
+              "RelativeDocumentMoniker": "Project1\\TypeConversion.c",
+              "ToolTip": "C:\\Users\\Administrator\\cworks\\Project1\\Project1\\TypeConversion.c",
+              "RelativeToolTip": "Project1\\TypeConversion.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-17T10:12:30.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
