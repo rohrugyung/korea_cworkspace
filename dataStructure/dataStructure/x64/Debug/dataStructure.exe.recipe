@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\cworks\dataStructure\x64\Debug\dataStructure.exe</FullPath>
+      <FullPath>C:\cworks\DataStructure\x64\Debug\dataStructure.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
