@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cworks\\dataStructure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7A7836-606E-4697-ADC4-3F36A4D15A13}|dataStructure\\dataStructure.vcxproj|C:\\cworks\\dataStructure\\dataStructure\\structStudnet.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DD7A7836-606E-4697-ADC4-3F36A4D15A13}|dataStructure\\dataStructure.vcxproj|solutionrelative:dataStructure\\structStudnet.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7A7836-606E-4697-ADC4-3F36A4D15A13}|dataStructure\\dataStructure.vcxproj|C:\\cworks\\dataStructure\\dataStructure\\queEX.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DD7A7836-606E-4697-ADC4-3F36A4D15A13}|dataStructure\\dataStructure.vcxproj|solutionrelative:dataStructure\\queEX.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7A7836-606E-4697-ADC4-3F36A4D15A13}|dataStructure\\dataStructure.vcxproj|C:\\cworks\\dataStructure\\dataStructure\\stackEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DD7A7836-606E-4697-ADC4-3F36A4D15A13}|dataStructure\\dataStructure.vcxproj|solutionrelative:dataStructure\\stackEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "structStudnet.c",
+              "DocumentMoniker": "C:\\cworks\\dataStructure\\dataStructure\\structStudnet.c",
+              "RelativeDocumentMoniker": "dataStructure\\structStudnet.c",
+              "ToolTip": "C:\\cworks\\dataStructure\\dataStructure\\structStudnet.c*",
+              "RelativeToolTip": "dataStructure\\structStudnet.c*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-05T00:43:40.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "queEX.c",
+              "DocumentMoniker": "C:\\cworks\\dataStructure\\dataStructure\\queEX.c",
+              "RelativeDocumentMoniker": "dataStructure\\queEX.c",
+              "ToolTip": "C:\\cworks\\dataStructure\\dataStructure\\queEX.c",
+              "RelativeToolTip": "dataStructure\\queEX.c",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-05T00:26:10.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "stackEx.c",
+              "DocumentMoniker": "C:\\cworks\\dataStructure\\dataStructure\\stackEx.c",
+              "RelativeDocumentMoniker": "dataStructure\\stackEx.c",
+              "ToolTip": "C:\\cworks\\dataStructure\\dataStructure\\stackEx.c",
+              "RelativeToolTip": "dataStructure\\stackEx.c",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-04T23:56:13.688Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

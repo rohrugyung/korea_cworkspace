@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cworks\\MemoryAllocation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8219FD-D992-4D5E-B827-A574BDB2D7ED}|MemoryAllocation\\MemoryAllocation.vcxproj|C:\\cworks\\MemoryAllocation\\MemoryAllocation\\TipingGame.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A8219FD-D992-4D5E-B827-A574BDB2D7ED}|MemoryAllocation\\MemoryAllocation.vcxproj|solutionrelative:MemoryAllocation\\TipingGame.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8219FD-D992-4D5E-B827-A574BDB2D7ED}|MemoryAllocation\\MemoryAllocation.vcxproj|C:\\cworks\\MemoryAllocation\\MemoryAllocation\\strtokEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A8219FD-D992-4D5E-B827-A574BDB2D7ED}|MemoryAllocation\\MemoryAllocation.vcxproj|solutionrelative:MemoryAllocation\\strtokEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "strtokEx.c",
+              "DocumentMoniker": "C:\\cworks\\MemoryAllocation\\MemoryAllocation\\strtokEx.c",
+              "RelativeDocumentMoniker": "MemoryAllocation\\strtokEx.c",
+              "ToolTip": "C:\\cworks\\MemoryAllocation\\MemoryAllocation\\strtokEx.c",
+              "RelativeToolTip": "MemoryAllocation\\strtokEx.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-03T23:39:22.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TipingGame.c",
+              "DocumentMoniker": "C:\\cworks\\MemoryAllocation\\MemoryAllocation\\TipingGame.c",
+              "RelativeDocumentMoniker": "MemoryAllocation\\TipingGame.c",
+              "ToolTip": "C:\\cworks\\MemoryAllocation\\MemoryAllocation\\TipingGame.c*",
+              "RelativeToolTip": "MemoryAllocation\\TipingGame.c*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-03T23:26:58.676Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
